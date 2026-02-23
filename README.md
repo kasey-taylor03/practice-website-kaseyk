@@ -1,5 +1,3 @@
-# practice-website-kaseyk
-just hootin and hollerin practice website kaseyk
 <!DOCTYPE html>
 <html lang="en">
 <head>
